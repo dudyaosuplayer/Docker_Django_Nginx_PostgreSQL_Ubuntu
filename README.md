@@ -1,5 +1,5 @@
 # Docker_Django_Nginx_PostgreSQL_Ubuntu
-Собран на docker-compose образ Django (Linux, nginx, Django, Postgres, Gunicorn) сервера. 
+Образ Django (Linux, nginx, Django, Postgres, Gunicorn) сервера собран при помощи docker-compose. 
 Задача решена с использованием Compose. В данном репозитории находится файл docker-compose.yml. 
 Запуск проекта: 
   - Убедитесь, что порты 8000 и 5432 не заняты на хостовой машина
